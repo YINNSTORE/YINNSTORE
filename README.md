@@ -32,11 +32,11 @@
   Stats saya
 </h1></div>
 <a href="https://github.com/YINNSTORE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayu12345677&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YINNSTORE&show_icons=true&theme=dark&line_height=27" alt="polygon's github stats"/>
 </a>
 
 <a href="https://github.com/YINNSTORE">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bayu12345677&layout=compact&theme=radical&count_private=true&locale=de"
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YINNSTORE&layout=compact&theme=radical&count_private=true&locale=de"
 </a>
 
 <p align="center">
